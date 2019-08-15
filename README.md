@@ -4,7 +4,7 @@
 
 * The project is mainly used for crawling a Website, the largest site in the world. In doing so it retrieves video titles, duration, mp4 link, cover url and direct Website`s url.
 * This project crawls PornHub.com quickly, but with a simple structure.
-* This project can crawl up to 5 millon Website`s videos per day, depending on your personal network. Because of my slow bandwith my results are relatively slow.
+* This project can crawl up to 5 million Website`s videos per day, depending on your personal network. Because of my slow bandwith my results are relatively slow.
 * The crawler requests 10 threads at a time, and because of this can achieve the speed mentioned above. If your network is more performant you can request more threads and crawl a larger amount of videos per day. For the specific configuration see [pre-boot configuration]
 
 
